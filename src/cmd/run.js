@@ -122,5 +122,5 @@ export default async function run(
     });
   }
 
-  return firefoxApp;
+  return extensionRunner;
 }
