@@ -1,4 +1,5 @@
 /* @flow */
 import {main} from './program';
+import run from './cmd/run';
 
-export {main};
+export {main, run};
